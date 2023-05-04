@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ludwin13
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning Java/App Development via Android Studio
+- 👀 I’m interested in learning: Java, Cisco IOS, JunOS.
+- 🌱 I’m currently learning Java/App Development via Android Studio and NetBeans IDE. Also Cisco IOS and JunOS through various info found on the Internet.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
